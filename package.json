@@ -1,0 +1,22 @@
+{
+  "name": "chinherve_3_17012022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./public/css/main.css  --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JinJueHao/ChinHerve_3_17012022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JinJueHao/ChinHerve_3_17012022/issues"
+  },
+  "homepage": "https://github.com/JinJueHao/ChinHerve_3_17012022#readme",
+  "dependencies": {
+    "sass": "^1.48.0"
+  }
+}
